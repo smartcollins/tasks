@@ -18,7 +18,7 @@ const Slider = ()=>{
         setTimeout(() => {
         forward()
         }, 2000);
-      },[slide]);
+      });
 
 
     // console.log(images.length)
